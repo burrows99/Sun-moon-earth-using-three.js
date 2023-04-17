@@ -26,7 +26,7 @@ You can use this project to learn about the solar system, 3D modeling, and the T
 Contributions to the project are welcome. Please open an issue to report a bug or suggest a new feature. Pull requests are also welcome.
 
 ## Project Live
-To access the live version of this project, [click here] (https://3d-moon.raunakburrows.repl.co/). This is a 3D space scene created using the Three.js library. The scene features a torus, a rotating earth with a moon orbiting around it, a rotating sun, and thousands of randomly generated meteor objects. The camera can be moved around using the OrbitControls, allowing for an immersive experience.
+To access the live version of this project, https://3d-moon.raunakburrows.repl.co/. This is a 3D space scene created using the Three.js library. The scene features a torus, a rotating earth with a moon orbiting around it, a rotating sun, and thousands of randomly generated meteor objects. The camera can be moved around using the OrbitControls, allowing for an immersive experience.
 
 The code imports the necessary dependencies, defines the scene and camera, creates and adds the objects to the scene, and sets up the renderer and controls. The animate() function is responsible for updating the scene and rendering it to the canvas. Overall, this project demonstrates the power and versatility of Three.js in creating dynamic and engaging 3D scenes for the web.
 
