@@ -30,5 +30,5 @@ To access the live version of this project, https://3d-moon.raunakburrows.repl.c
 
 The code imports the necessary dependencies, defines the scene and camera, creates and adds the objects to the scene, and sets up the renderer and controls. The animate() function is responsible for updating the scene and rendering it to the canvas. Overall, this project demonstrates the power and versatility of Three.js in creating dynamic and engaging 3D scenes for the web.
 
-License
+## License
 This project is licensed under the MIT license. See the LICENSE file for more details.
